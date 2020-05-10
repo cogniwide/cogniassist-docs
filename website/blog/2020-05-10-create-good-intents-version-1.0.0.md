@@ -33,7 +33,7 @@ Featurizers play a vital role in the task of intent recognition, it decides how 
 featurizer, the model will interpret the data in more of a morphological level, while a contextual embedding can capture more semantic meaning.
 
 CogniAssist deals with the following featurizers,
-### Frequency Based
+### Word Frequency Level
 Frequency based Featurizers analysis the in a morphological level, or token level. It gives importance to the words in utterances and its frequencies rather than the
 overall meaning of the sentence or word. 
 
