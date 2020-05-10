@@ -1,8 +1,6 @@
 ---
 title: Creating Good Intents
 author: Athul Anand
-authorURL: http://twitter.com/ericnakagawa
-authorFBID: 661277173
 ---
 
 ## What is an Intent?
